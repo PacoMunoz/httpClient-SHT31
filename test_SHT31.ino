@@ -14,8 +14,8 @@ uint8_t loopCnt = 0;
 Adafruit_SHT31 sht31 = Adafruit_SHT31();
 
 // definir parametros de la wifi local
-const char* ssid = "MOVISTAR_23DF";
-const char* password = "avDUjM5GSbuoWSHPKRzG";
+const char* ssid = "";
+const char* password = "";
 
 String sensorPosition = "pruebas";
 
